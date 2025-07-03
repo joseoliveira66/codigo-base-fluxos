@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Página-1" id="ROfHt4PvmgitP87Z5muA">
+    <mxGraphModel dx="1173" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-1" target="pI-tfRHwf42Blf8YsHYV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-1" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-2" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-3" target="pI-tfRHwf42Blf8YsHYV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-3" value="real SALARIO BASE" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="317" y="140" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-4" target="pI-tfRHwf42Blf8YsHYV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-4" value="GRATIFICACAO = SALARIO BASE * 10%" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="220" width="255" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-5" target="pI-tfRHwf42Blf8YsHYV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-5" value="SALARIO BRUTO = SALARIO BASE + GRATIFICACAO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="290" width="255" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-6" target="pI-tfRHwf42Blf8YsHYV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-9" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pI-tfRHwf42Blf8YsHYV-8">
+          <mxGeometry x="-0.0603" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-6" target="pI-tfRHwf42Blf8YsHYV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-15" value="NAO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pI-tfRHwf42Blf8YsHYV-14">
+          <mxGeometry x="0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-6" value="SALARIO BRUTO &amp;lt;= 1200?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="335" y="360" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-7" value="SALARIO BRUTO - 15% IR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="407.5" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-10" value="SALARIO BRUTO - 20% IR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="407.5" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-16" value="SALARIO FINAL = SALARIO BRUTO - 15% IR" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="559.17" y="535" width="166.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-24" value="SALARIO FINAL = SALARIO BRUTO - 20% IR" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="94.16999999999996" y="535" width="166.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-10" target="pI-tfRHwf42Blf8YsHYV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-7" target="pI-tfRHwf42Blf8YsHYV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-16" target="pI-tfRHwf42Blf8YsHYV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-24" target="pI-tfRHwf42Blf8YsHYV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pI-tfRHwf42Blf8YsHYV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pI-tfRHwf42Blf8YsHYV-25" target="pI-tfRHwf42Blf8YsHYV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
